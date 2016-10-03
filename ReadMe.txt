@@ -1,0 +1,3 @@
+This application is programmed using core-java. It uses all the basic concept of java. In this application the opponent will be the AI [The computer]. AI will play the game as per the instuctions coded int its class or methos. After every move, the winner will be checked. And if there is one. Winner will be declared and you will be asked to play new game. Else if all the positions are filled and there is no winner. The game will be declared as Draw.
+
+To run: Load all the classes into JavaSupported Editor and the run the TicTacToe.java and Enjoy the game.
